@@ -1,0 +1,6 @@
+E:\Steam\steamapps\common\RimWorld\Mods\ConduitDeconstruct\1.1\Assemblies\ConduitDeconstruct.dll
+E:\Steam\steamapps\common\RimWorld\Mods\ConduitDeconstruct\1.1\Assemblies\ConduitDeconstruct.pdb
+E:\Steam\steamapps\common\RimWorld\Mods\ConduitDeconstruct\Source\ConduitDeconstruct\obj\Debug\ConduitDeconstruct.csprojAssemblyReference.cache
+E:\Steam\steamapps\common\RimWorld\Mods\ConduitDeconstruct\Source\ConduitDeconstruct\obj\Debug\ConduitDeconstruct.csproj.CoreCompileInputs.cache
+E:\Steam\steamapps\common\RimWorld\Mods\ConduitDeconstruct\Source\ConduitDeconstruct\obj\Debug\ConduitDeconstruct.dll
+E:\Steam\steamapps\common\RimWorld\Mods\ConduitDeconstruct\Source\ConduitDeconstruct\obj\Debug\ConduitDeconstruct.pdb
